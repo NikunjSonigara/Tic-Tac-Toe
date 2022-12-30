@@ -1,4 +1,6 @@
-# Tic-Tac-Toe
+# Tic-Tac-Toe Game
+
+I have made this using XML and logic is built in JAVA.
 
 ![WhatsApp Image 2022-12-30 at 6 43 34 PM (1)](https://user-images.githubusercontent.com/106422654/210073965-ed51a55f-376c-427e-b858-4a822402267d.jpeg)
 
